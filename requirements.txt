@@ -1,0 +1,2 @@
+docx
+pyttsx3-2.90
