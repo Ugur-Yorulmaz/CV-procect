@@ -1,2 +1,2 @@
-# CV-procect
+# CV-project
 CV Creation Project
